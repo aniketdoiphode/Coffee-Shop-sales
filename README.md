@@ -7,8 +7,8 @@
 ### Coffee Shop Sales Analysis: Problem Statements and Insights
 
 **1. How do sales vary by day of the week and hour of the day?**  
-- **Hourly Variation**: A line chart illustrates that sales peak between **8 AM to 10 AM**, highlighting busy morning hours as the top-performing time slot.  
-- **Daily Variation**: A bar chart shows that **Monday, Thursday, and Friday** experience the highest sales, suggesting these are the busiest days for the coffee shop.
+ - **Hourly Variation**: A line chart illustrates that sales peak between **8 AM to 10 AM**, highlighting busy morning hours as the top-performing time slot.
+ - **Daily Variation**: A bar chart shows that **Monday, Thursday, and Friday** experience the highest sales, suggesting these are the busiest days for the coffee shop.
 
 **2. Are there any peak times for sales activity?**  
 - Peak sales activity occurs between **8 AM and 10 AM**, as clearly shown by the line chart.
