@@ -1,8 +1,10 @@
 # Coffee-Shop-sales
 
-**The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.**
+**✤ The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.**
 
+### ✤ Tool Used:
 
+- Excel
 
 ### Coffee Shop Sales Analysis: Problem Statements and Insights
 
@@ -43,6 +45,8 @@
   - **Bakery items** follow with **12%**, while Branded products contribute **10%**.
   - **Coffee beans** make up **6%**, and Drinking Chocolate and Loose Tea each account for **1%** or less.
 
-- Order Size Distribution:
+-** Order Size Distribution:**
   - As per the size distribution chart, **Large (31%)**, **Regular (30%)**, and **Undefined (30%)** orders have nearly equal shares.
+
+
 
