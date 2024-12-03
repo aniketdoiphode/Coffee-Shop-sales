@@ -2,11 +2,17 @@
 
 **✤ The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.**
 
+
+
 ### ✤ Tool Used:
 
 - Excel
 
-### Coffee Shop Sales Analysis: Problem Statements and Insights
+
+
+### ✤ Coffee Shop Sales Analysis: Problem Statements and Insights
+
+
 
 **1. How do sales vary by day of the week and hour of the day?**  
  - **Hourly Variation**: A line chart illustrates that sales peak between **8 AM to 10 AM**, highlighting busy morning hours as the top-performing time slot.
